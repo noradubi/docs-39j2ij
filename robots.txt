@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-6ltfaf.renovatusoatsura.com/sitemap.xml
